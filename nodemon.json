@@ -1,0 +1,8 @@
+{
+    "env": {
+        "PORT": 8080,
+        "MONGODB_URL": "mongodb://127.0.0.1:27017/covid_survey?retryWrites=true&w=majority",
+        "JWT_KEY": "iWontTellYouMyName123!@#",
+        "OTP_KEY": ""
+    }
+}
